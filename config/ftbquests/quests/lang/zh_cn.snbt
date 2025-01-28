@@ -3,7 +3,7 @@
 	chapter.05E614FDA677D85E.title: "食物与农业"
 	chapter.07210DDF872160BA.title: "应用能源2"
 	chapter.0A093D8C4429B627.title: "通用机械：反应堆"
-	chapter.0A52D0932DA3F809.title: "敌对神经网络"
+	chapter.0A52D0932DA3F809.title: "深度怪物学习"
 	chapter.0AB4F9AED808DE48.title: "模块化路由器"
 	chapter.0E81CBCD6B1D1895.title: "神化丨刷怪笼"
 	chapter.0F96DC3563DA78EF.title: "神秘农业"
@@ -629,7 +629,7 @@
 	quest.046C417B2ADF3AA7.quest_subtitle: "最大:4"
 	quest.0480DF316ACF12DA.quest_subtitle: "西部铁杉 + 丛林"
 	quest.0484051446480B54.quest_desc: ["造成大量伤害,并且可以砍倒树木!你还需要什么？"]
-	quest.0484051446480B54.title: "&6全合金&5合金&3斧"
+	quest.0484051446480B54.title: "&6ATM&5合金&3斧"
 	quest.048BD38532A1DDCF.quest_subtitle: "最多可容纳1M LP"
 	quest.048F2942436D3C46.title: "&6天空&a之主&f"
 	quest.0496E8E786262464.quest_desc: ["我真的需要向你解释&2主世界&r吗？"]
@@ -1031,7 +1031,7 @@
 	quest.089B1B9837AF4938.title: "&5无法获取工具"
 	quest.089D22E6B361EBA4.quest_desc: ["为微型宇宙钻探船准备组件."]
 	quest.089D22E6B361EBA4.quest_subtitle: "推进器全开!"
-	quest.08AC2D81A1004984.title: "&6全合金&5合金&3三叉戟"
+	quest.08AC2D81A1004984.title: "&6ATM&5合金&3三叉戟"
 	quest.08B1A64B01A8A604.quest_desc: [
 		"虽然还有其他方法可以移动恶魔,但你可以创建一个&d&a灵魂宝石空&f&r来捕捉恶魔并将其放置在其他地方."
 		""
@@ -2686,7 +2686,7 @@
 	]
 	quest.19E0397F810D8787.quest_subtitle: "只有不死生物会提供这种氛围.死去的生物."
 	quest.19E356E67EF17E4A.quest_desc: ["史上最伟大的工具!像瑞士军刀但更好!最高挖掘等级,砍树如切黄油,开辟道路,当然还能造成大量伤害!"]
-	quest.19E356E67EF17E4A.title: "&6全合金&5合金&3多功能工具"
+	quest.19E356E67EF17E4A.title: "&6ATM&5合金&3多功能工具"
 	quest.19E6757F04098A0C.quest_desc: [
 		"有效升级:"
 		"- 割草机"
@@ -3441,14 +3441,14 @@
 	quest.22C4318523A43B49.quest_subtitle: "[此处插入 Linux 用户的笑话]"
 	quest.22C4318523A43B49.title: "终端"
 	quest.22D0C3F454F5E8F1.quest_subtitle: "等级:§b4"
-	quest.22D2CFDDB06C720C.quest_desc: ["工具在 &2&lMinecraft&r 中非常重要,但库存空间也同样重要.那么为什么不通过制作一个 Paxel 来腾出一些空间呢!Paxels 是镐P、斧axe和铲els的组合.它们可以剥木头、开辟路径,并挖掘任何与同等级镐/斧/铲相同的方块!"]
-	quest.22D2CFDDB06C720C.title: "Paxel"
+	quest.22D2CFDDB06C720C.quest_desc: ["工具在 &2&lMinecraft&r 中非常重要,但库存空间也同样重要.那么为什么不通过制作一个 多功能工具(Paxel) 来腾出一些空间呢!多功能是镐、斧和铲的组合.它们可以剥木头、开辟路径,并挖掘任何与同等级镐/斧/铲相同的方块!"]
+	quest.22D2CFDDB06C720C.title: "多功能工具"
 	quest.22D716F330A6D4CE.quest_desc: [
 		"你可能想再与 &d&a末影龙&f&r 战斗几次...."
 		""
 		"你需要一些 &d&a龙蛋&f&r 和其他几样物品,如 &a&d龙鳞&f&r,来制作 &6Sta&r!"
 		""
-		"专业提示:尝试使用 &a敌对神经网络&r 来制作 &a龙蛋&f 或龙息,这样你就不必一直回来与她战斗了!"
+		"专业提示:尝试使用 &a深度怪物学习&r 来制作 &a龙蛋&f 或龙息,这样你就不必一直回来与她战斗了!"
 	]
 	quest.22D716F330A6D4CE.title: "&d&a末影龙&f&r 的碎片"
 	quest.22D8C29095C81DFF.quest_desc: [
@@ -3649,7 +3649,7 @@
 	quest.24888CAD50B32B04.quest_subtitle: "使用&a石头蜂巢&f生成"
 	quest.248AEF5537E48B1A.quest_subtitle: "等级:§b4"
 	quest.24934231538B6492.quest_desc: [
-		"&a远古木&f 金字塔是 &b&l&a异界&f&r 中的三大建筑之一.显然,这是一座金字塔,而且它没有地下室!取而代之的是,它里面有猪灵."
+		"&a远古金字塔&f是 &b&l&a异界&f&r 中的三大建筑之一.显然,这是一座金字塔,而且它没有地下室!取而代之的是,它里面有猪灵."
 		"{image:atm:textures/questpics/allthemodium/all_pyramid.png width:200 height:100 align:center}"
 	]
 	quest.24934231538B6492.title: "远古金字塔"
@@ -3755,7 +3755,7 @@
 	quest.2586C2C9D1EFB2DC.quest_subtitle: "用于多方块结构的ME舱口"
 	quest.2586C2C9D1EFB2DC.title: "ME总线和舱口"
 	quest.258B387107AEB2EB.quest_desc: [
-		"生成资源的最佳方式之一是使用&a&a怪物农场&f&r.虽然你可以抓住刷怪笼并使用&a刷怪蛋&f改变它们,但模组&a敌对神经网络&r提供了一种将能量转换为&a&a生物资源&f&r的方法,使用模拟."
+		"生成资源的最佳方式之一是使用&a&a怪物农场&f&r.虽然你可以抓住刷怪笼并使用&a刷怪蛋&f改变它们,但模组&a深度怪物学习&r提供了一种将能量转换为&a&a生物资源&f&r的方法,使用模拟."
 		""
 		"这是生成你制作&6星&r所需的&a98,415 &a下界之星&f&r的最佳方式之一."
 	]
@@ -4440,7 +4440,7 @@
 	quest.2D65DC315CCC60C8.quest_subtitle: "副产品"
 	quest.2D6FDCC948DB927D.quest_subtitle: "红木 + 柚木"
 	quest.2D8026E10FBA7A72.quest_desc: ["一把非常快的镐."]
-	quest.2D8026E10FBA7A72.title: "&6全合金 &5合金 &3镐"
+	quest.2D8026E10FBA7A72.title: "&6ATM&5合金&3镐"
 	quest.2D84DA544D7A24FA.quest_desc: ["此任务由&6AllTheMods团队&r或&2社区贡献者&r编写,用于AllTheMods整合包中.由于所有&6AllTheMods&r整合包均采用&e保留所有权利&r的许可协议,未经&6AllTheMods团队&r明确许可,此任务不得用于任何非&6AllTheMods团队&r发布的公开整合包中.此任务被故意隐藏,如果你看到这个,说明你正处于编辑模式."]
 	quest.2D86D4403E0F4EB9.quest_desc: [
 		"炽金是JDT添加的一种新材料.炽金可以通过在黄金块上使用二级或更高级别的粘液进行粘液扩散来获得.炽金矿石受时运附魔影响."
@@ -5399,10 +5399,10 @@
 	quest.37CD9BF281903F56.title: "&a红色蘑菇蜜蜂&f"
 	quest.37D4E5ACB35D8BF1.quest_subtitle: "需要氢才能工作!"
 	quest.37EBB8E0D6E5F821.quest_desc: [
-		"&6敌对神经网络&r简称HNN是一个基于模拟怪物击杀以获取战利品的模组!为此,你将收集怪物上的\"数据\",然后从数据中运行模拟以生成它们的掉落物!"
+		"&6深度怪物学习&r简称HNN是一个基于模拟怪物击杀以获取战利品的模组!为此,你将收集怪物上的\"数据\",然后从数据中运行模拟以生成它们的掉落物!"
 		"{image:atm:textures/questpics/hnn.png width:150 height:150 align:center}"
 	]
-	quest.37EBB8E0D6E5F821.title: "欢迎来到&9敌对神经网络&r!"
+	quest.37EBB8E0D6E5F821.title: "欢迎来到&9深度怪物学习&r!"
 	quest.37F2BE3C2BAF7C2D.quest_desc: ["标签是Minecraft的重要组成部分.对于那些不知道的人来说,它们作为一种组织工具,帮助选择相似物品以完成相同任务.比如用任何木板制作工作台或用任何斧头最快地砍倒树木.要通过标签过滤,放入一个物品,然后从组中选择标签.比如&a铁矿石&f代表矿石."]
 	quest.380D3212D1CBA593.quest_desc: [
 		"中等大小的&c腐烂生物&r,&c腐行者&r.它们有20颗心.像所有&c腐烂生物&r一样,它们会攻击&2石生者&r和&7遗忘者&r,并会掉落&c&a御腐破片&f&r."
@@ -6831,8 +6831,8 @@
 		"{image:atm:textures/questpics/bumblezone/bumble_cube.png width:200 height:100 align:center}"
 	]
 	quest.46FEF3DB6A5B52A0.title: "战斗方块"
-	quest.47043AF7D1FABC43.quest_desc: ["&b反附魔台&r可能是这里最有用的提示.简单地将一个附魔物品放在左槽,一本书放在中间槽.然后,附魔将以书的形式出现在右槽!你也可以使用&a附魔书&f而不是物品来拆分它的附魔."]
-	quest.47043AF7D1FABC43.title: "&l&b解附魔台"
+	quest.47043AF7D1FABC43.quest_desc: ["&b祛魔台&r可能是这里最有用的提示.简单地将一个附魔物品放在左槽,一本书放在中间槽.然后,附魔将以书的形式出现在右槽!你也可以使用&a附魔书&f而不是物品来拆分它的附魔."]
+	quest.47043AF7D1FABC43.title: "&l&b祛魔台"
 	quest.47045A0E8E3457C2.quest_subtitle: "等级:§63"
 	quest.4707FB01F15F6E1F.quest_desc: [
 		"&b&l克里巴诺&r是一个新的多方块结构,它的功能有点像&a巨型熔炉&f!要制作它,请按照以下步骤操作!"
@@ -7542,17 +7542,17 @@
 	]
 	quest.4E09BBC0BAED3440.quest_subtitle: "等级:§c5"
 	quest.4E178CCAC7F85F54.quest_desc: [
-		"&6全合金&r物品开启了你成为OP的旅程!"
+		"&6ATM&r物品开启了你成为OP的旅程!"
 		""
 		"首先,所有工具和盔甲物品都是&d不可破坏的&r,这意味着不用担心它们会损坏或需要修理!"
 		""
 		"这些工具也非常快,并且具有高基础伤害的强大攻击力."
 	]
-	quest.4E178CCAC7F85F54.title: "&6全合金&r &d&a植物科技:工具和装甲&f&r"
+	quest.4E178CCAC7F85F54.title: "&6ATM&r &d&a植物科技:工具和装甲&f&r"
 	quest.4E1D5EC061A4AE55.quest_desc: ["在你的电弧炉中,一块铜锭和63mB的氧气可以制成退火铜锭"]
 	quest.4E1E31EDD544EE10.quest_subtitle: "64,000毫升"
 	quest.4E28B67554CBDAB7.quest_desc: ["在所有剑中伤害排名第二.排名第一的剑伤害无限,没有剑能与无限相提并论."]
-	quest.4E28B67554CBDAB7.title: "&6全合金 &5合金 &3剑"
+	quest.4E28B67554CBDAB7.title: "&6ATM&5合金&3剑"
 	quest.4E3355FDCB65BB63.quest_desc: ["&a唤魔者&r是Minecraft中强大且致命的小Boss.所以当然&l铁&r增加了更强大和致命的版本!是的,这本&e书&r是两者的稀有掉落物!它有10个法术槽,但其中3个已被占用.&a尖牙打击&r、&a尖牙护盾&r和&a&a召唤恼鬼群&f&r都随&e书&r附带,无法移除.同时也提升了&a&l召唤&r的能力!"]
 	quest.4E3355FDCB65BB63.title: "&a唤魔术士的魔法书"
 	quest.4E384F9FEF629386.quest_desc: [
@@ -7769,13 +7769,13 @@
 	quest.500BEAD94C97DF96.quest_desc: ["&a可以被放置&f在蜂巢或离心机中.当放置在蜂巢中时,它减少了蜜蜂在蜂巢中停留的时间20%.当放置在离心机中时,它提高了处理速度.这些效果可以叠加."]
 	quest.500BEAD94C97DF96.quest_subtitle: "音速蜜蜂"
 	quest.50150380043F97F9.title: "大黄蜂的飞行"
-	quest.501A0AEEC73C0790.quest_desc: ["&6猪巫妖&r是由&6&l全合金&r添加的一个Boss,它居住在&l&b&a异界&f&r的古老金字塔中.死亡时,它会掉落一颗心脏!你需要收集9颗心脏来制作一个&a块&f...幸运的是,有方法可以大量获取它们!"]
+	quest.501A0AEEC73C0790.quest_desc: ["&6猪巫妖&r是由&6&lA&r添加的一个Boss,它居住在&l&b&a异界&f&r的古老金字塔中.死亡时,它会掉落一颗心脏!你需要收集9颗心脏来制作一个&a块&f...幸运的是,有方法可以大量获取它们!"]
 	quest.501A0AEEC73C0790.title: "&6&a猪巫妖之心&f方块"
 	quest.501C6B7580453410.quest_desc: ["&a流体化器&r是一个可定制的多方块结构,最小尺寸为3x3x3.与其他多方块结构一样,框架需要用外壳制成,而面可以用玻璃制成."]
 	quest.501C6B7580453410.title: "流体化器建造"
 	quest.502FF1A93E06073C.quest_subtitle: "先驱者"
 	quest.5030F1D96457202E.quest_subtitle: "欧洲落叶松+云杉"
-	quest.5034A9137E0F3D3D.quest_desc: ["此任务由&6全合金团队&r或&2社区贡献者&r编写,用于全合金整合包中.由于所有&6全合金&r整合包都在&e保留所有权利&r的许可下,此任务不允许在未经&6全合金团队&r明确许可的情况下用于任何非全合金团队发布的公开整合包中.此任务被故意隐藏,如果你看到这个,说明你处于编辑模式."]
+	quest.5034A9137E0F3D3D.quest_desc: ["此任务由&6Allthemodium团队&r或&2社区贡献者&r编写,用于Allthemodium整合包中.由于所有&6AllthemodiumAllthemodium&r整合包都在&e保留所有权利&r的许可下,此任务不允许在未经&6全合金团队&r明确许可的情况下用于任何非全合金团队发布的公开整合包中.此任务被故意隐藏,如果你看到这个,说明你处于编辑模式."]
 	quest.5037849316098890.title: "红榴石工具"
 	quest.503E5B82A6C89278.quest_desc: [
 		"在氯乙烯中加入一点氧气,你将得到&a聚氯乙烯&f"
@@ -8112,8 +8112,8 @@
 		"我也绝对不会给你16个鸡蛋,让你可能得到鸡来获取血液.绝对只是为了烹饪."
 	]
 	quest.5361F72BAB72D318.quest_subtitle: "厌倦了&a尖利&f自己吗？"
-	quest.537B39B42C7D21ED.quest_desc: ["在&l&aOh &a生物群系&f我们去了&r新增的生物群系中,你可以找到4种新的石头类型:闪长岩、&a红岩&f、&a苔藓石&f和&a鹅卵石&f.现在我想知道是什么让&a鹅卵石&f区别于其他石头,使其获得岩石的称号."]
-	quest.537B39B42C7D21ED.title: "&l&aOh &a生物群系&f我们去了&r石头"
+	quest.537B39B42C7D21ED.quest_desc: ["在&l&a我们去过的&a生物群系&f&r新增的生物群系中,你可以找到4种新的石头类型:闪长岩、&a红岩&f、&a苔藓石&f和&a鹅卵石&f.现在我想知道是什么让&a鹅卵石&f区别于其他石头,使其获得岩石的称号."]
+	quest.537B39B42C7D21ED.title: "&l&a我们去过的&a生物群系&f&r 石头"
 	quest.537E39530360AD73.quest_desc: [
 		"要进行仪式,将原料放在锻造炉周围的&a奥术基座&f上."
 		""
@@ -8589,7 +8589,7 @@
 		"{image:atm:textures/questpics/gettingstarted/ironspells_example.png width:199 height:125 align:1}"
 	]
 	quest.58541EEDCB2C7CEE.title: "&d法术&r &a卷轴&r"
-	quest.585502BC014E420F.quest_desc: ["一旦你击败了MC的主要Boss,创建了一些基本能源,并希望找到一些&6全合金&r,是时候在旅程中迈出下一步了."]
+	quest.585502BC014E420F.quest_desc: ["一旦你击败了MC的主要Boss,创建了一些基本能源,并希望找到一些&6Allthemodium矿&r,是时候在旅程中迈出下一步了."]
 	quest.585502BC014E420F.quest_subtitle: "解锁第二章"
 	quest.585502BC014E420F.title: "&6前往&aATM之星&f&r!"
 	quest.5865951E4F81C91F.quest_desc: ["&7锇&r + &6荧石&r = &e&a强化荧石&f&r!"]
@@ -8820,7 +8820,7 @@
 	]
 	quest.5B4397D4EC23E702.title: "&a螫针长矛&f神殿"
 	quest.5B46B5BF4ADB2BE9.quest_desc: ["是的,它可以制造路径,别担心!"]
-	quest.5B46B5BF4ADB2BE9.title: "&6全合金&5合金&3铲"
+	quest.5B46B5BF4ADB2BE9.title: "&6ATM&5合金&3铲"
 	quest.5B4B5C148D63ACA1.quest_desc: [
 		"&a&a遗忆仆从&f&r不像普通生物那样生成,它们需要被创造.通过将&a雕刻过的黯瓜&f放在&a&a块&f &a遗忆锭&f&r上来创造.它们的行为类似于&a雪傀儡&f,它们永远不会攻击你,而是向&a敌对性生物&f射击.它们有10颗心,死亡时不会掉落任何物品……但为什么要杀死它们呢？"
 		"{image:atm:textures/questpics/undergarden/undergarden_minion.png width:125 height:100 align:center}"
@@ -8849,7 +8849,7 @@
 	quest.5B95C5B5B3A9CB2E.title: "&d&a战利品箱子&f&r"
 	quest.5B9F933ECD6B24FD.quest_desc: ["允许你比二级跳得更高."]
 	quest.5B9F933ECD6B24FD.quest_subtitle: "最大:1"
-	quest.5BA84F6282D9CAF1.quest_desc: ["&6全合金护甲&r但对&e&l铁's法术&r法术有加成!"]
+	quest.5BA84F6282D9CAF1.quest_desc: ["&6ATM护甲&r但对&e&lIron's Spell&r模组的法术有加成!"]
 	quest.5BA84F6282D9CAF1.quest_subtitle: "24"
 	quest.5BA84F6282D9CAF1.title: "&6全模法师套装"
 	quest.5BA986D7928BF09F.quest_desc: ["&a猪巫妖&f 是由 &6&l全模&r 添加的一个Boss.他拥有1000颗心,目前没有攻击手段,但相信我,当他攻击时,将会是毁灭性的!当他被击败时,他会掉落他的心脏,这是制作合金和 &aATM之星&f 所需的!可以尝试使用HNN或EnderIO来刷取他们!"]
@@ -10617,8 +10617,8 @@
 	quest.6E15447FC3D678E0.quest_desc: ["&b&a模糊卡&f&f允许过滤的物品忽略任何NBT元数据如耐久或附魔进行匹配,而&b&a反相卡&f&f则将这些总线上的过滤器从白名单切换为黑名单."]
 	quest.6E15447FC3D678E0.quest_subtitle: "剩下的两张IO卡"
 	quest.6E15447FC3D678E0.title: "大致来说"
-	quest.6E17595887A051C2.quest_desc: ["&l&2模组Minecraft&r向我们介绍了新的村民职业!&a锻造锤子&f:&5工业家&r 充电器:&b氟化研究者&r &a高级蜂箱&f:&6养蜂人&r &a咖啡机&f:&9工程师&r &a奥术核心&f:&d阴暗巫师&r &a采集台&f:&a采集者&r &a辊压机&f:&e卡特曼&r &a人力辊压机&f:&e轨道工&r 工程师'的工作台:&7枪械师&r &a白色旗帜&f:&7服装师&r 工程师'的电路工作台:&7电工&r 工程师'的工作台:&7机械师&r 转盘:&7&a结构工程师&f&r &a充能站&f:&4&a压力技工&f&r 锯:&8木匠&r"]
-	quest.6E17595887A051C2.title: "模组职业"
+	quest.6E17595887A051C2.quest_desc: ["&l&2模组们&r给我们带来了新的村民职业!&a锻压台&f:&5工人&r AE充能器:&b福鲁伊克斯研究者&r &a高级蜂箱&f:&6养蜂人&r &a咖啡制造机&f:&9工程师&r &a奥术核心&f:&d暗影导师&r &a采集台&f:&a采集者&r &a辊压机&f:&e车辆员&r &a人力辊压机&f:&e轨道工&r 工程师配装台:&7军火商&r &a白色旗帜&f:&7皮肤商&r 工程师'的电路工作台:&7电工&r 工程师电路台:&7电工&r 旋转台:&7&a结构工程师&f&r &a充能站&f:&4&a压力技工&f&r 锯木机:&8木匠&r"]
+	quest.6E17595887A051C2.title: "村民职业"
 	quest.6E177CA79B7ABD7C.quest_subtitle: "而且它'相当黑暗."
 	quest.6E177CA79B7ABD7C.title: "新的采矿冒险"
 	quest.6E18951E41103391.quest_desc: [
@@ -10703,7 +10703,7 @@
 		"直接升级自&5下界合金&r."
 		"{image:atm:textures/questpics/allthemodium/all_armor_all.png width:100 height:175 align:center}"
 	]
-	quest.6ECDD26CCCBC07C3.title: "&6全合金护甲"
+	quest.6ECDD26CCCBC07C3.title: "&6ATM护甲"
 	quest.6ED2CDD01659FD10.quest_desc: ["这套护甲的&a护甲点数&f与铁制护甲相同,但在韧性和&a击退抗性&f方面更优."]
 	quest.6ED2CDD01659FD10.quest_subtitle: "15"
 	quest.6ED2CDD01659FD10.title: "&7&a压缩铁&f护甲"
@@ -10976,7 +10976,7 @@
 		"- &a夜视&f"
 	]
 	quest.7154D73516548149.quest_desc: ["&6&lAllthemodium&r是由&6AllTheMods团队&r特别添加的模组,以在下界合金之后添加更多内容!你需要冒险通过它来获取&6&l&aATM之星&f&r所需的一些物品.现在有一个任务页面,你可以跟随它!"]
-	quest.7154D73516548149.title: "&l&6全合金&r"
+	quest.7154D73516548149.title: "&l&6Allthemodium&r"
 	quest.71581992E8E4C43E.quest_desc: ["扔几个&8&a凋灵骷髅头颅&f&r和一个&d&a防护之精华&f&r来制作一个&8凋灵&3符文&r!如果没成功,你可能需要更多的&a经验值&r."]
 	quest.71581992E8E4C43E.title: "&8凋灵&3符文"
 	quest.715B86DC82EA636B.quest_desc: [
@@ -11909,8 +11909,8 @@
 	quest.7A3DD8CAD6A5692D.quest_subtitle: "红美味苹果 + &a糖枫&f"
 	quest.7A514E27E1A7FE32.quest_desc: ["钻石还允许我们创建一些很酷的小工具来帮助我们使用模组&l&c&d建筑小帮手&f&r建造.这些是帮助你建造更大基地或使用&c&a破坏小帮手&f&r清理空间的好工具."]
 	quest.7A514E27E1A7FE32.title: "&l&c&d建筑小帮手&f&r"
-	quest.7A579E233C69871F.quest_desc: ["&b&l敌对神经网络&r主要是关于模拟生物以获取他们的战利品!除此之外没有太多内容."]
-	quest.7A579E233C69871F.title: "&b&l敌对神经网络"
+	quest.7A579E233C69871F.quest_desc: ["&b&l深度怪物学习&r主要是关于模拟生物以获取他们的战利品!除此之外没有太多内容."]
+	quest.7A579E233C69871F.title: "&b&l深度怪物学习"
 	quest.7A615E2A152917AD.quest_desc: ["为此,你需要2个&5&a下界合金熔炉&f&r和7块彩虹颜色的玻璃.&c红色&r、&6橙色&r、&e黄色&r、&2绿色&r、&3蓝色&r、&9靛蓝色&r- &5紫色&r,和&5紫&r-&d品红色&r.是的!整个罗伊·G·比姆!"]
 	quest.7A615E2A152917AD.title: "&cR&6a&ei&2n&3b&9o&5w &cC&eo&3r&5e"
 	quest.7A62C1B9385DF643.quest_desc: [
@@ -12512,7 +12512,7 @@
 	task.0B79080463C860ED.title: "商人地毯"
 	task.0BAEC53DD32C9870.title: "生产性树木原木"
 	task.0BD1BA7949BB5855.title: "&a动力活塞&f"
-	task.0BFAF56214875C90.title: "全合金法师护甲"
+	task.0BFAF56214875C90.title: "Allthemodium法师护甲"
 	task.0C92F7E44100B2BA.title: "第三级工具"
 	task.0CA0B32D52395A39.title: "木板"
 	task.0CD2482221534ED9.title: "AllTheMods的任务"
@@ -12756,7 +12756,7 @@
 	task.40A7CC56DACC2623.title: "&aME玻璃线缆&f"
 	task.40B245AFD0DAB3A0.title: "&d铁路&f 玻璃"
 	task.40B39896B6CD41C6.title: "护甲"
-	task.40C43560F454AD82.title: "全合金工具"
+	task.40C43560F454AD82.title: "ATM工具"
 	task.40C84C03F35EE9FA.title: "AllTheMods的任务"
 	task.413BE83975DC2577.title: "自动化"
 	task.41602F0D9097E74F.title: "破损的陶瓦"
@@ -12935,7 +12935,7 @@
 	task.66ACCF967C939342.title: "版权所有"
 	task.66C97246C3EEFB7C.title: "在机器中观察&a硫酸&f"
 	task.66FE76CACFF33DCC.title: "灵魂行者工具"
-	task.6754D9E162472CA1.title: "全合金进度"
+	task.6754D9E162472CA1.title: "ATM进度"
 	task.67690077D4273A36.title: "访问星光"
 	task.67B21CF59C3D02E5.title: "高级机械"
 	task.681CB7DF06F2F506.title: "访问&a挖矿维度&f"
@@ -12957,7 +12957,7 @@
 	task.6C12449632AD53DC.title: "轨道套件"
 	task.6C3887D42B6B2122.title: "随从"
 	task.6C841FAADFD094AC.title: "自动化"
-	task.6C974DF242CFDB8E.title: "定位一座古代金字塔"
+	task.6C974DF242CFDB8E.title: "定位一座远古金字塔"
 	task.6C996D5E63879519.title: "&a触媒回收升级&f"
 	task.6D074E91F5BFC2A8.title: "轨道套件"
 	task.6D15CFE8E1CF6D25.title: "坟墓's 蜂巢"
